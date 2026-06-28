@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quarrtul Ain</h1>
 <h3 align="center">A passionate full stack developer from Pakistan.</h3>
 
-<p align="left"> <img src="https://www.google.com/imgres?q=images%20for%20girls%20islamic%20profile&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Finstagram%2FDQszJ9aAUGF%2F0%2Fimage.jpg&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fpopular%2Fislamic-hijab-girl-pic-for-fb-profile%2F&docid=5BjxPf2GtrZfFM&tbnid=HCiGxQGG_3BlGM&vet=12ahUKEwin9YLon6qVAxVih_0HHfwGF08QnPAOegQIUBAB..i&w=480&h=854&hcb=2&ved=2ahUKEwin9YLon6qVAxVih_0HHfwGF08QnPAOegQIUBAB" alt="quarrtul-ain" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quarrtul-ain" alt="quarrtul-ain" /></a> </p>
 
